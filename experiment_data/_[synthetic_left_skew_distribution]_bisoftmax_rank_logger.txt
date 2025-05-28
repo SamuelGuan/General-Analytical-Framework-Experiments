@@ -1,0 +1,10 @@
+Train_start_time: 2025-05-27 20:43:46
+
+=======================================================
+bisoftmax config: 
+[Wq1]shape: [torch.Size([128, 128])], bias: [False]
+[Wq2]shape: [torch.Size([128, 128])], bias: [False]
+[Wk1]shape: [torch.Size([128, 128])], bias: [False]
+[Wk2]shape: [torch.Size([128, 128])], bias: [False]
+[Wv] shape: [torch.Size([128, 128])], bias: [False]
+=======================================================
